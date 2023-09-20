@@ -1,1 +1,2 @@
-print  ("qqq")
+#cd coolsite
+#python manage.py runserver
